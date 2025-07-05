@@ -1,0 +1,3 @@
+fastbook
+selenium
+duckduckgo-search
